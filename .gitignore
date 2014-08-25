@@ -14,6 +14,15 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# For Unity3D
+Library/*
+Temp/*
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.unityproj
+
 # =========================
 # Operating System Files
 # =========================
